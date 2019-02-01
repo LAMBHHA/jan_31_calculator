@@ -9,7 +9,7 @@ def test_five_multiply_two():
     If given 5 and 2 as parameters, 10 should
     be returned
     """
-    assert multiply(5, 2) == 11
+    assert multiply(5, 2) == 10
 
 def test_eight_multiply_three():
     assert multiply(8, 3) == 24
